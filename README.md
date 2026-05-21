@@ -15,9 +15,7 @@
 > ---
 
 <!--RECENTLY:START-->
-
 ## In case you missed it 🦋
-
 - Apr 10, 2026 — `[Blog]` [On keeping a garden](https://prjctimg.me/blg/on-keeping-a-garden)
 - Feb 28, 2026 — `[Devlog]` [Untitled](https://prjctimg.me/dvlg/index)
 - Jan 27, 2026 — `[Devlog]` [Daily stoic wisdom in your editor 🌃](https://prjctimg.me/dvlg/index)
