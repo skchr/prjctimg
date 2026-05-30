@@ -3,7 +3,6 @@
 > > ---
 > >
 > > >
-> > > I am [prjctimg](https://prjctimg.me), a carbon based multifaceted being (no, I'm not a bot).
 > > >
 > > > You will find my interests scattered across the  web as "facets", each being a tribute to a passion. [This](https://github.com/prjctimg) is the one account to rule them all.
 > > >
